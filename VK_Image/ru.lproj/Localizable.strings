@@ -1,0 +1,25 @@
+
+"loginLabel" = "Авторизация";
+"loginTextField" = "Введите логин";
+"passwordTextField" = "Введите пароль";
+"signInButton" = "Войти";
+"registerButton" = "Зарегистрироваться";
+"registerLabel" = "Регистрация";
+"loginValidMessage" = "Логин введен верно";
+"loginWrongMessage" = "Символы a-Z и цифры 0-9, от 1 до 10 символов";
+"passwordValidMessage" = "Пароль введен верно";
+"passwordWrongMessage" = "Символы a-Z и цифры 0-9, минимум 8 символов";
+"ok" = "Ок";
+"errorRegister" = "Ошибка";
+"messageErrorRegister" = "Заполните все поля регистрации";
+"completeRegister" = "Готово";
+"messagecompleteRegister" = "Пользователь зарегистрирован";
+"userLogin" = "Пользователь";
+"userLoginMessage" = "Пользователь не найден";
+"userPassword" = "Пароль";
+"userPasswordMessage" = "Ошибка ввода пароля";
+"errorRegisterLogin" = "Ошибка";
+"errorDescriptionInvalidCredentials" = "Недействительные учетные данные";
+"errorDescriptionUserExists" = "Пользователь с таким логином уже существует";
+"authorizationStatusTitle" = "Отказано в доступе к фотографиям";
+"authorizationStatusMessage" = "Приложению требуется доступ к библиотеке фотографий";

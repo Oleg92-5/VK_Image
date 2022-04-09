@@ -1,0 +1,27 @@
+
+"loginLabel" = "Login";
+"loginTextField" = "Enter login";
+"passwordTextField" = "Enter password";
+"signInButton" = "Log in";
+"registerButton" = "Register";
+"registerLabel" = "Registration";
+"loginValidMessage" = "Login is correct";
+"loginWrongMessage" = "Characters a-Z and numbers 0-9, 1 to 10 characters";
+"passwordValidMessage" = "Password is correct";
+"passwordWrongMessage" = "Characters a-Z and numbers 0-9, minimum 8 characters";
+"ok" = "Ok";
+"errorRegister" = "Error";
+"messageErrorRegister" = "Fill in the registration form";
+"completeRegister" = "Complete";
+"messagecompleteRegister" = "User registered";
+"userLogin" = "User";
+"userLoginMessage" = "User not found";
+"userPassword" = "Password";
+"userPasswordMessage" = "Password entry error";
+"errorRegisterLogin" = "Error";
+"errorDescriptionInvalidCredentials" = "Invalid credentials";
+"errorDescriptionUserExists" = "User with this login already exists";
+"authorizationStatusTitle" = "Photos Access Denied";
+"authorizationStatusMessage" = "App needs access to photos library";
+
+
